@@ -4,5 +4,7 @@ The purpose of this project is to analyze product performance using sales data t
 
 
 Tools and Technologies Used:
+
 •	Microsoft Excel: For data cleaning, formatting, and basic analysis (formulas, pivot tables, charts).
+
 •	Microsoft Power BI: For building interactive dashboards and visualizations.
